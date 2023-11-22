@@ -14,6 +14,6 @@ You can explore my repositories to view a selection of my coding projects and ex
 
 ## Contact
 
-If you'd like to get in touch, feel free to contact me at [](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/).
+If you'd like to get in touch, feel free to contact me at [](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/oscar-wiklund-jonsson/).
 
 Let's collaborate and innovate together! 🚀
